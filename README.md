@@ -1,1 +1,1 @@
-# GitTest
+Enter words or numbers in the array and run the code. The contents will be shown in descending order in the debug console.
