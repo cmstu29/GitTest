@@ -13,3 +13,5 @@ arr2.sort();
 
 //output to console
 console.log(arr2);
+
+//this is an exercise for INFO 4190
